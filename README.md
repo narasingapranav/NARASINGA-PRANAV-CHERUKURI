@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm CHERUKURI NARASINGA PRANAV</h1>
 <h3 align="center">Passionate Computer Science Student | AI & ML Enthusiast | Web Developer</h3>
 
-- 🔭 I’m currently working on ****
+- 🔭 I’m currently working on **Audio-to-Text Emotion Detection**
 
-- 🌱 I’m currently learning ****
-
+- 🌱 I’m currently learning **deep learning**
 - 👨‍💻 All of my projects are available at [https://github.com/narasingapranav](https://github.com/narasingapranav)
 
 - 📫 How to reach me **pranavch74934@gmail.com**
