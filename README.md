@@ -1,25 +1,85 @@
 # 💫 About Me:
-- 🎓 Computer Science Student passionate about building **AI-driven applications and intelligent systems**
-- 🔭 Currently working on **SBI Smart Assistant — an Agentic AI Financial Assistant using LangGraph, LLMs, and FastAPI**
-- 🌱 Currently learning **LangGraph, Generative AI, RAG Systems, and AI Agent architectures**
-- 🤖 Exploring how autonomous AI agents can analyze data, reason, and provide personalized solutions
+- 🎓 Computer Science Student passionate about building **AI-powered applications and intelligent systems**
+- 🔭 Currently building **SBI Smart Assistant — an Agentic AI Financial Assistant using LangGraph, LLMs, FastAPI, and MongoDB**
+- 🌱 Exploring **Agentic AI, LangGraph, RAG architectures, LLM orchestration, and Generative AI**
+- 🤖 Interested in designing AI agents capable of reasoning, decision-making, and delivering personalized solutions
 - 🧠 Experienced in **Machine Learning, Computer Vision, Explainable AI, and Full Stack Development**
-- 🚀 Built projects involving **LLMs, RAG pipelines, ML prediction systems, and AI-powered applications**
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/narasingapranav)
+- 🚀 Built applications using **LLMs, RAG pipelines, ML models, and modern web technologies**
+- 👨‍💻 All projects available at: [GitHub](https://github.com/narasingapranav)
 - 📫 Reach me at **pranavch74934@gmail.com**
 
+---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narasinga-pranav-cherukuri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PRANAVCH74934@GMAIL.COM) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=narasingapranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=narasingapranav&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=narasingapranav&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/narasinga-pranav-cherukuri) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:PRANAVCH74934@GMAIL.COM)
 
 ---
-[![](https://komarev.com/ghpvc/?username=narasingapranav&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 🚀 Featured Projects:
+
+### 🤖 SBI Smart Assistant — Agentic AI Financial Assistant
+AI-powered financial assistant built using **LangGraph, Gemini LLM, FastAPI, MongoDB, and ChromaDB** for transaction analysis and personalized financial insights.
+
+### 📚 Document Intelligence Assistant — RAG Chatbot
+Document question-answering system using **LangChain, ChromaDB, HuggingFace Embeddings, and Gemini** for semantic search and AI-powered responses.
+
+### ✈️ Aircraft Risk Prediction — ML + Explainable AI
+Machine learning system using **Random Forest and SHAP** to predict aircraft operational risk with model interpretability.
+
+### 🪐 Terrain Analysis — Computer Vision
+Computer vision-based terrain feature detection using **MATLAB and real Mars rover imagery**.
+
+---
+
+# 💻 Tech Stack:
+
+### 🤖 AI & Machine Learning
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C.svg?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-FF6F00.svg?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Gemini_AI-4285F4.svg?style=for-the-badge&logo=google)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E.svg?style=for-the-badge&logo=huggingface)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8.svg?style=for-the-badge&logo=opencv)
+![SHAP](https://img.shields.io/badge/SHAP-Explainable_AI-blue.svg?style=for-the-badge)
+
+### ⚙️ Backend & Databases
+![FastAPI](https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F00.svg?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql)
+
+### 🌐 Frontend Development
+![React](https://img.shields.io/badge/React-20232A.svg?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4.svg?style=for-the-badge&logo=tailwindcss)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3)
+
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus)
+![C](https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=c)
+
+### 🛠 Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker)
+![AWS](https://img.shields.io/badge/AWS-FF9900.svg?style=for-the-badge&logo=amazonaws)
+![Postman](https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter)
+
+---
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.shion.dev/api?username=narasingapranav&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
+
+![](https://streak-stats.demolab.com/?user=narasingapranav&theme=dark&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=narasingapranav&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+---
