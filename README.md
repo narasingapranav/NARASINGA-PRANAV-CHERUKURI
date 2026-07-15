@@ -1,5 +1,12 @@
 # 💫 About Me:
-i am currently working on financial agent , leaning langraph<br>
+- 🎓 Computer Science Student passionate about building **AI-driven applications and intelligent systems**
+- 🔭 Currently working on **SBI Smart Assistant — an Agentic AI Financial Assistant using LangGraph, LLMs, and FastAPI**
+- 🌱 Currently learning **LangGraph, Generative AI, RAG Systems, and AI Agent architectures**
+- 🤖 Exploring how autonomous AI agents can analyze data, reason, and provide personalized solutions
+- 🧠 Experienced in **Machine Learning, Computer Vision, Explainable AI, and Full Stack Development**
+- 🚀 Built projects involving **LLMs, RAG pipelines, ML prediction systems, and AI-powered applications**
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/narasingapranav)
+- 📫 Reach me at **pranavch74934@gmail.com**
 
 
 ## 🌐 Socials:
